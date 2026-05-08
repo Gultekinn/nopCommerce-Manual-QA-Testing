@@ -38,11 +38,14 @@ To ensure consistent results, the testing was performed in the following environ
 * **Network:** High-speed Wi-Fi
 * **Hardware:** System optimized with 1TB Lexar SSD for high-performance execution.
 
-## 📁 Documentation & Deliverables
 
-* **Test Cases:** 36 documented cases with detailed steps, expected results, and execution status.
-* **Test Scenarios:** 9 scenarios covering all major functional modules.
-* **Google Sheets Link:** [https://docs.google.com/spreadsheets/d/1AoSlSTbJBfb-lEQopHQEGMScJITAIQuy_r-eTKpEhnA/edit?usp=sharing]
+## 📊 Documentation & Deliverables
+
+| Sheet | Description | Link |
+|-------|-------------|------|
+| 📋 General Information | Project overview and test scenarios | [View](https://docs.google.com/spreadsheets/d/1AoSlSTbJBfb-lEQopHQEGMScJITAIQuy_r-eTKpEhnA/edit?gid=191446049#gid=191446049) |
+| ✅ Test Cases | 36 detailed test cases with steps and expected results | [View](https://docs.google.com/spreadsheets/d/1AoSlSTbJBfb-lEQopHQEGMScJITAIQuy_r-eTKpEhnA/edit?gid=0#gid=0) |
+| 🚀 Test Execution | Actual results and pass/fail status | [View](https://docs.google.com/spreadsheets/d/1AoSlSTbJBfb-lEQopHQEGMScJITAIQuy_r-eTKpEhnA/edit?gid=1512176316#gid=1512176316) |
 
 
 **Contact Information**

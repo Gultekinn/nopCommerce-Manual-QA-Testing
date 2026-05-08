@@ -1,15 +1,10 @@
-# nopCommerce E-Commerce Platform - Manuel Test Ssenarisi Planı
+nopCommerce E-Commerce Platform - Manuel Test Ssenarisi Planı
 
-Target URL:** [demo.nopcommerce.com](https://demo.nopcommerce.com)
-Google Sheets Link:** [https://docs.google.com/spreadsheets/d/1AoSlSTbJBfb-lEQopHQEGMScJITAIQuy_r-eTKpEhnA/edit?usp=sharing]
-
-LinkedIn: [Gültekin Əzizova](https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/)
-
-## 🚀 Project Description
+ 🚀 Project Description
 
 This project showcases a professional manual testing suite conducted on the nopCommerce demo web application. It involves a systematic approach to quality assurance, covering key e-commerce functionalities including navigation, user authentication, product search, shopping cart, and wishlist features.
 
-## 🔧 Testing Modules & Scope
+ 🔧 Testing Modules & Scope
 
 * **Header & Navigation:** Verification of menu links, logo functionality, and navigation bar elements.
 * **Login & Register (Main Site):** Validation of Sign-In, Registration workflows and input field behaviors.
@@ -21,7 +16,7 @@ This project showcases a professional manual testing suite conducted on the nopC
 * **Wishlist:** Testing real-time updates and interaction between the cart and wishlist.
 * **Footer & General Functions:** Verification of footer links and general UI elements.
 
-## ✏️ Methodologies & Techniques Applied
+✏️ Methodologies & Techniques Applied
 
 * **Black Box Testing:** Functional testing performed via the UI.
 * **Positive & Negative Testing:** Validated both expected behavior and error handling for invalid inputs.
@@ -29,7 +24,7 @@ This project showcases a professional manual testing suite conducted on the nopC
 * **Error Guessing:** Specifically targeted form validation and system feedback delays.
 * **UI/UX Verification:** Evaluated page behaviors and dynamic UI updates.
 
-## 🖥 Test Environment
+ 🖥 Test Environment
 
 To ensure consistent results, the testing was performed in the following environment:
 
@@ -38,8 +33,7 @@ To ensure consistent results, the testing was performed in the following environ
 * **Network:** High-speed Wi-Fi
 * **Hardware:** System optimized with 1TB Lexar SSD for high-performance execution.
 
-
-## 📊 Documentation & Deliverables
+ 📊 Documentation & Deliverables
 
 | Sheet | Description | Link |
 |-------|-------------|------|

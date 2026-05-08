@@ -52,4 +52,4 @@ To ensure consistent results, the testing was performed in the following environ
 * **QA Engineer:** Gültekin Əzizova
 * **Focus:** Manual QA
 * **Mail:** gultkinzizova93@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/]
+* **LinkedIn:** (Azizova Gultakin)[https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/]
